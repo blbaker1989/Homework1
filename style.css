@@ -1,0 +1,91 @@
+/*.background {
+  background-color: #D3D3D3;*/
+
+.container {
+  background-color: #D3D3D3;
+  width: 800px;
+  border: 10px;
+  padding: 25px;
+  margin: auto;
+
+
+}
+body {
+	background-color: #ffffff;
+	font-style: Georgia, Times, Times, serif;
+	font-color: #777777;
+
+}
+header {
+  color: #FFFAFA;
+  font-size: 25px;
+  font-family: serif;
+  font-weight: bold;
+	background-color: #4aaaa5;
+  margin-right: 80%;
+  padding: 14px 16px;
+  position: relative;
+  left: 160px;
+  top: 78px;
+  border: 8px;
+  border-color: #cccccc;
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: right;
+}
+
+ol {
+	float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: auto;
+
+}
+
+li a:hover {
+    background-color: #4aaaa5;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 45px;
+	text-align: left;
+  font-color: #777777;
+}
+bio-image {
+	float: left;
+
+}
+
+h2 {
+	font-size: 25px;
+  font-family: serif;
+	color: #FFFAFA;
+
+}
+
+main-bio {
+  font-size: 15px;
+  font-family: serif;
+	float: right;
+
+}
+bio-image {
+	image-orientation: right;
